@@ -1,0 +1,23 @@
+10
+O  P  5
+R  O  1
+O  Q  2
+T  O  8
+P  R  2
+R  S  3
+S  R  1
+S  U  3
+S  T  2
+Q  R  1
+A  B  1
+B  E  1
+A  C  1
+C  G  1
+G  K  1
+G  L  1
+A  D  1
+D  H  1
+D  I  1
+H  M  1
+I  M  1
+I  N  1
